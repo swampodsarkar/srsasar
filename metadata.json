@@ -1,0 +1,5 @@
+{
+  "name": "React Fighter 3D",
+  "description": "A 3D fighting game prototype using React Three Fiber, featuring two-player local combat, health systems, and classic arcade UI. Deployable to Vercel.",
+  "requestFramePermissions": []
+}
